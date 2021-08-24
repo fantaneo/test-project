@@ -1,3 +1,6 @@
+puts "hoge.rb"
+puts "aaaa.rb"
+
 for i in 1..30
 
     if i%15==0
